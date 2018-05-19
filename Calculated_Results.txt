@@ -1,0 +1,24 @@
+Sample Size: 118
+
+**Sums**
+Down: 31743
+Up : 1403
+
+**Avg**
+Down: 269
+Down: 33 MB/s
+Up: 11 Mb/s
+Up: 1 MB/s
+
+**Max**
+Down: 283 Mb/s
+Down: 35 MB/s
+Up: 12 Mb/s
+Up: 1 MB/s
+
+**Min**
+Down: 174 Mb/s
+Down: 21 MB/s
+Up: 10 Mb/s
+Up: 1 MB/s
+
